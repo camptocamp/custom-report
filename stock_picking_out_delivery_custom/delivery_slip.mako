@@ -163,7 +163,7 @@
                 Nous vous remercions pour votre commande sur dessus-dessous.fr<br/>
                 Nous espérons qu’elle vous donnera entière satisfaction.<br/></strong>
                 </span>
-                <span>Vous souhaitez nous retourner un article ? Dessus Dessous vous facilite les démarches et vous met à disposition une étiquette de retour (pour la France Métropolitaine).  Vous avez 30 jours pour nous retourner votre colis. Connectez-vous sur votre compte, dans la rubrique "Mes retours",  suivez la procédure indiquée et joignez ce bon de livraison à votre colis retour. En cas d'échange, nous vous invitons simplement à repasser commande sur notre site, une fois la procédure de retour effectuée sur notre site et votre avoir crédité.
+                <span>Vous souhaitez nous retourner un article ? Dessus Dessous vous facilite les démarches et vous met à disposition une étiquette de retour prépayée (pour la France Métropolitaine), à télécharger dans votre compte, rubrique "Mes retours". Vous avez 30 jours pour nous retourner votre colis. Connectez-vous sur votre compte, dans la rubrique "Mes commandes", sélectionnez la commande concernée, suivez la procédure indiquée et joignez ce bon de livraison à votre colis retour. En cas d'échange, nous vous invitons simplement à repasser commande sur notre site, une fois la procédure de retour effectuée sur notre site et votre avoir crédité.
                 </span>
             </p>
             <p><span>
@@ -176,8 +176,8 @@
                 <strong>
                 Thank you for your order on dessus-dessous.com<br/>
                 We hope that you will be satisfied.<br/></strong>
-                </span>
-                <span>You wish to return an item? In order to facilitate the proceedings, Dessus Dessous provides you with a prepaid return label to stick on your package (for Mainland France only). You have up to 30 days in order to return your parcel. Log into your customer account, in &ldquo;My returns&rdquo;, follow the instructions and join this return form to your parcel. In case of an exchange, we invite you to directly place a new order on our website, once the return is registered and the voucher has been credited to your customer account.<br/>
+                </span>  
+                <span>You wish to return an item? In order to facilitate the proceedings, Dessus Dessous provides you with a prepaid return label to stick on your package (download it in the section "My returns" in your account; for Mainland France only). You have up to 30 days to return your parcel. Log into your customer account, in “My orders”, select the right order, follow the instructions and join this return form to your parcel. In case of an exchange, we invite you to directly place a new order on our website, once the return is completed and the voucher has been credited to your customer account.
                 </span>
             </p>
             <p><span>
